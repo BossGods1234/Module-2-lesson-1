@@ -1,0 +1,20 @@
+h3 {
+    background-color: greenyellow;
+}
+
+.para1 {
+    background-color: black;
+    color: white;
+}
+
+#p1 {
+    color: aqua;
+}
+
+.para2 {
+    border: 10px solid crimson;
+}
+#p2{
+    font-size: 20px ;
+    color: blue;
+}
